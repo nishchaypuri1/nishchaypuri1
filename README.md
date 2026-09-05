@@ -1,82 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=180&text=NISHCHAY%20PURI&fontSize=46&fontColor=BB9AF7&fontAlignY=42&desc=Full-Stack%20%7C%20Applied%20ML%20%7C%20AI%20Product%20Engineering&descAlignY=68&descSize=17&descColor=7AA2F7&animation=fadeIn" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=44&duration=2800&pause=1400&color=A78BFA&center=true&vCenter=true&width=800&height=70&lines=Nishchay+Puri)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=1400&color=8B8B9E&center=true&vCenter=true&width=650&height=35&lines=AI%2FML+Engineer+%C2%B7+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=BB9AF7&center=true&vCenter=true&width=700&lines=Screening+in+the+browser%2C+not+in+a+lab.;Feedback+the+moment+you+need+it%2C+not+after.;Third-year+B.Tech+%40+VIPS-TC%2C+AIML-C.)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=3&width=100%25" width="100%"/>
+![Education](https://img.shields.io/badge/🎓_B.Tech_AI_&_ML-VIPS_Delhi_'28-8B5CF6?style=flat-square&labelColor=15131f)
+![Role](https://img.shields.io/badge/💼_ML_%26_Backend_Engineer-neuraease-8B5CF6?style=flat-square&labelColor=15131f)
+![Location](https://img.shields.io/badge/📍_New_Delhi-India-8B5CF6?style=flat-square&labelColor=15131f)
+![Status](https://img.shields.io/badge/🟢_Open_to-Internships-8B5CF6?style=flat-square&labelColor=15131f)
 
 </div>
 
 <br/>
 
-```yaml
-name:        Nishchay Puri
-role:        Third-year B.Tech, AI & Machine Learning (AIML-C)
-university:  Vivekananda Institute of Professional Studies and Technical Campus
-shipping:    HELIX — offline, browser-native health screening + counterfeit-medicine
-             detection · InterviewAce — AI mock-interview platform with live scoring
-             · neuraease — full-stack monorepo
-status:      open to internships · open to freelance / collab
-```
-
-> Most tools assume a lab, a hospital, or a live server behind them.
-> HELIX runs the diagnosis in the browser, on the phone that's already in someone's
-> hand. InterviewAce runs the same idea on practice — feedback the moment you need it,
-> not after the interview is over.
+Third-year AI & ML engineer who ships. Eight-plus end-to-end projects across computer vision, NLP, generative AI, and healthcare — the kind that go from idea to a working product, not just a notebook. **HELIX**, a healthcare stack where every model runs on-device with zero server dependency, placed 1st among 4,413 teams at an international hackathon's Japan finale.
 
 <br/>
 
 <div align="center">
 
-### `stack`
+## 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,pytorch,tensorflow,supabase,onnx,vite,tailwind&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
 <br/>
 
-### `highlights`
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🩺 [HELIX](https://github.com/nishchaypuri1/Helix)**
-<sub>Major Project</sub>
+### 🩺 HELIX
+**Major Project · 🥇 1st place, 4,413 teams**
 
-Browser-native, zero-infrastructure healthcare stack — on-device skin-disease screening (TF.js), counterfeit-medicine detection (CIE-Lab + DCT → ONNX), and a citizen drug-discovery module (WebGPU).
-
-![Static Badge](https://img.shields.io/badge/Japan_finalist-4413_teams-BB9AF7?style=flat-square&labelColor=1a1b27)
+Zero-infrastructure healthcare stack — on-device skin-disease screening (TensorFlow.js), counterfeit-medicine fingerprinting (CIE-Lab + DCT → ONNX), and a citizen drug-discovery module (WebGPU). No server. No internet required.
 
 </td>
 <td width="50%" valign="top">
 
-**🎤 [InterviewAce](https://github.com/nishchaypuri1/InterviewAce)**
-<sub>Minor Project</sub>
+### 🎤 InterviewAce
+**Minor Project**
 
-Full-stack AI mock-interview platform (Next.js + Supabase) — adaptive question generation, structured per-answer feedback and scoring, Razorpay-backed subscriptions.
-
-![Static Badge](https://img.shields.io/badge/LLM_scored-real_time_feedback-7AA2F7?style=flat-square&labelColor=1a1b27)
+Full-stack AI mock-interview platform (Next.js + Supabase). Adaptive LLM-generated questions, structured per-answer scoring and feedback, Razorpay-backed subscriptions.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧩 neuraease**
-
-Full-stack monorepo project.
+### ⚙️ neuraease
+Full-stack monorepo — current work as ML Engineer & Backend/Pipeline Engineer.
 
 </td>
 <td width="50%" valign="top">
 
-**📦 [goपluto](https://github.com/nishchaypuri1/gopluto)**
-
-Public repo · HTML
+### 📁 8+ Shipped Projects
+Spanning computer vision, NLP, generative AI, and healthcare AI. Full case studies on my portfolio.
 
 </td>
 </tr>
@@ -86,24 +79,16 @@ Public repo · HTML
 
 <div align="center">
 
-### `trophies`
+## 📊 GitHub Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=nishchaypuri1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishchaypuri1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchaypuri1&theme=tokyonight&hide_border=true&background=0D0B14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="165" />
 
-### `stats`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaypuri1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B14&title_color=A78BFA" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishchaypuri1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=BB9AF7&icon_color=7AA2F7&text_color=c3c9e0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchaypuri1&theme=tokyonight&hide_border=true&background=00000000&ring=BB9AF7&fire=7AA2F7&currStreakLabel=BB9AF7" width="48%" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaypuri1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=BB9AF7" width="44%" />
-
-### `contribution graph`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishchaypuri1/nishchaypuri1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishchaypuri1/nishchaypuri1/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/nishchaypuri1/nishchaypuri1/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=nishchaypuri1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=6" />
 
 </div>
 
@@ -111,9 +96,12 @@ Public repo · HTML
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=nishchaypuri1&color=BB9AF7&style=flat-square&label=profile+views)
-<sub>Building in public, one commit at a time.</sub>
+## 🔗 Connect
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,50:302B63,100:0F0C29&height=60" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://luminous-kataifi-a19630.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchay-puri-8b98b3273)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishchaypuri1)
+
+![Profile views](https://komarev.com/ghpvc/?username=nishchaypuri1&color=8B5CF6&style=flat-square&label=profile+views)
 
 </div>
